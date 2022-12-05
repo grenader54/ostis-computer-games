@@ -1,0 +1,3 @@
+[submodule "kb/computer_games"]
+	path = kb/computer_games
+	url = https://github.com/SangeRofl/computer_games

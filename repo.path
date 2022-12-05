@@ -3,3 +3,6 @@ ostis-web-platform/ims.ostis.kb
 
 # components
 kb/
+
+
+!./ostis-web-platform/ims.ostis.kb/ims/knowledge_base_IMS.scs
